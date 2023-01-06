@@ -29,3 +29,18 @@ body.h-100 {
 .form-control {
     width: 75%;
 }
+
+#city-info[data-city=""] {
+    display: none;
+  }
+  
+  @media only screen and (min-width: 992px) {
+    #dashboard {
+      flex-grow: 1;
+    }
+    #five-day-weather-card {
+      width: 20%;
+    }
+  }
+  
+    
