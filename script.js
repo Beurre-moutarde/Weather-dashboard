@@ -352,6 +352,6 @@ class DailyWeather {
     return weatherObj ? JSON.parse(weatherObj) : null;
   }
   
-  
+   
   
          
