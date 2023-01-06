@@ -21,3 +21,11 @@ body.h-100 {
 .jumbotron {
     background-color: #343a40
 }
+
+.form-inline {
+    display: flex;
+}
+
+.form-control {
+    width: 75%;
+}
