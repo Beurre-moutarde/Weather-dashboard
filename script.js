@@ -177,7 +177,7 @@ class DailyWeather {
   }
   
   /***** Getting weather data *****/
-  const API_KEY = '8364edf40aaaa47bca43e4b4901faf72';
+  const API_KEY = '0dfc6f85f085cd2138deaeffcfe8ba06';
   
   function startGettingWeatherData(cityName) {
     // getFiveDayForecast(cityName, API_KEY);
