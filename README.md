@@ -6,11 +6,14 @@ Welcome to the Weather Dashboard!
 The Weather Dashboard is a simple application that allows users to search for and view the current and future weather conditions for cities around the world.
 
 ## User Story
+'''
 AS A traveler
 I WANT to see the weather outlook for multiple cities
 SO THAT I can plan a trip accordingly
+'''
 
 ## Acceptance Criteria
+'''
 GIVEN a weather dashboard with form inputs
 WHEN I search for a city
 THEN I am presented with current and future conditions for that city and that city is added to the search history
@@ -29,6 +32,7 @@ THEN I am again presented with current and future conditions for that city
 
 WHEN I open the weather dashboard
 THEN I am presented with the last searched city forecast
+'''
 
 ## Technologies Used
 HTML
