@@ -1,0 +1,23 @@
+html.h-100 {
+    height: 100%;
+}
+
+body.h-100 {
+    height: 100%;
+}
+
+.container-flui.h-100 {
+    height: 100%;
+}
+
+.row {
+    display: flex;
+}
+
+.col {
+    flex-grow: 1;
+}
+
+.jumbotron {
+    background-color: #343a40
+}
